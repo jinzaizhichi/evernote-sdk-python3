@@ -38,6 +38,7 @@ setup(
     ],
     license='BSD',
     install_requires=[
+        'oauth2',
         'oauthlib',
         'requests_oauthlib'
     ],
